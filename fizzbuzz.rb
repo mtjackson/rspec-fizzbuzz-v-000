@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  number / 3 = divisible_by_three_test
+  divisible_by_three_test = number / 3
   if divisible_by_three_test.is_an_int
     return "Fizz"
 end
